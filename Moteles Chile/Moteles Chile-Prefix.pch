@@ -11,4 +11,10 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <Foundation/Foundation.h>
+    #import "Data.h"
+    #import "UI.h"
+    #import "UIColor+Extensions.h"
+    #import "UIImage+Extensions.h"
 #endif
